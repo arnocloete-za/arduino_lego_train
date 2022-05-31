@@ -2,7 +2,7 @@
 <b>Arduino and Lego train: Traffic light and Infra-Red where Lego train is automated</b>
 
  Robotics Hobby Project: Arduino with Lego trains.
- <br>
+ <br><br>
  This is the Arduino code you would need for this project.
   
 
