@@ -1,7 +1,7 @@
 # arduino_lego_train
-<b>Arduino and Lego train: Traffic light and Infra-Red where Lego train is automated<b>
+<b>Arduino and Lego train: Traffic light and Infra-Red where Lego train is automated</b>
 
-  <u>Robotics Hobby Project: Arduino with Lego trains. </u>
+ Robotics Hobby Project: Arduino with Lego trains.
   
 
 ![alt text](https://github.com/arnocloete-za/arduino_lego_train/blob/master/lego_train_thumbnail.png?raw=true)
